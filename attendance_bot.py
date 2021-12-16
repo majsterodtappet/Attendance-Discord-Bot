@@ -67,4 +67,4 @@ async def on_raw_reaction_add(payload):
         await message.clear_reactions()
         await message.edit(embed=embed)
 
-client.run('BOT TOKEN HERE')
+client.run('BOT TOKEN HERE') 
