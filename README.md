@@ -3,3 +3,5 @@ Simple Attendance Discord Bot. Mark your presence by only reacting to embed mess
 
 # How it works
 ![Preview](https://im4.ezgif.com/tmp/ezgif-4-61d0ba6a29.gif)
+
+# Dependencies
