@@ -55,7 +55,7 @@ async def on_raw_reaction_add(payload):
 
         embed = discord.Embed(
             title= priorEmbed.title,
-            description= "Attendance list is **closed.**\n‎",
+            description= "Meeting is over. Attendance list is **closed.**\n‎",
             color=0x62b546)
 
         embed.set_author(name= priorEmbed.author.name)
