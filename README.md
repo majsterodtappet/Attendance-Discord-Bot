@@ -6,7 +6,7 @@ Simple Attendance Discord Bot. Mark your presence by only reacting to embed mess
 
 ## Installation
 
-Install discord.py or py-cord
+Install **discord.py**
 ```
 # Linux/macOS
 python3 -m pip install -U discord.py
@@ -14,6 +14,7 @@ python3 -m pip install -U discord.py
 # Windows
 py -3 -m pip install -U discord.py
 ```
+Or install **py-cord**
 ```
 # Linux/macOS
 python3 -m pip install -U py-cord
